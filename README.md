@@ -22,3 +22,4 @@ It’s useful for overnight downloads, game installs, or anytime you don’t wan
 - The app uses Windows’ built-in shutdown command and does not collect any data.
 
 **Made by Fox**
+<img width="341" height="198" alt="Screenshot 2026-02-08 205326" src="https://github.com/user-attachments/assets/fe683398-9480-4cf5-b277-768be58e0a54" />
